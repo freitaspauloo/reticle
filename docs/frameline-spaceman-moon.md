@@ -30,7 +30,7 @@ Two CTAs on the detail page, and **only** these two:
 
 ## Source of truth (Reticle, now on GitHub)
 
-Preview: https://github.com/freitaspauloo/reticle — route `/nudgeai`
+Preview: https://github.com/freitaspauloo/reticle — route `/spaceman-moon` (alias `/nudgeai`)
 
 Fetch these files and port them. Do not invent a new layout.
 

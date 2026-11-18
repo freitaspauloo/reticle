@@ -139,8 +139,8 @@ function createTickEngine() {
 }
 
 /**
- * Reticle cinematic hero — full-bleed looping video, glass nav, floating feature pins.
- * Preview: /nudgeai
+ * Spaceman on the moon — full-bleed looping video, glass nav, floating feature pins.
+ * Preview: /spaceman-moon
  */
 export default function NudgeaiLanding({ className }) {
   const videoRef = useRef(null);
